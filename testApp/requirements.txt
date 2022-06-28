@@ -3,7 +3,7 @@ fastcore == 1.4.5
 python-3.7.13
 
 torch==1.8.1+cpu
-https://download.pytorch.org/whl/cpu/torchvision-0.6.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
+torchvision==0.9.1+cpu
 
 voila
 ipywidgets
