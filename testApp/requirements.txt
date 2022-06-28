@@ -1,6 +1,5 @@
 fastai == 2.7.4
 fastcore == 1.4.5
-python-3.7.13
 
 torch==1.8.1+cpu
 torchvision==0.9.1+cpu
