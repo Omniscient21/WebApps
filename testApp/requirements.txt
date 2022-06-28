@@ -1,6 +1,6 @@
 fastai == 2.7.4
 fastcore == 1.4.5
-python == 3.7.13 
+python-3.7.13
 
 https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
 https://download.pytorch.org/whl/cpu/torchvision-0.6.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
