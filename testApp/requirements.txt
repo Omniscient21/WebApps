@@ -1,8 +1,8 @@
 fastai == 2.7.4
 fastcore == 1.4.5
 
-torch==1.8.1+cpu
-torchvision==0.9.1+cpu
+torch==1.11.0+cpu
+torchvision==0.11.0+cpu
 
 voila
 ipywidgets
