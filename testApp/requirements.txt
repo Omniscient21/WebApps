@@ -1,0 +1,12 @@
+fastai == 2.7.4
+fastcore == 1.4.5
+
+
+graphviz
+ipywidgets
+matplotlib
+nbdev>=0.2.12
+pandas
+scikit_learn
+azure-cognitiveservices-search-imagesearch
+sentencepiece
