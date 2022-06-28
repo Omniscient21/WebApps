@@ -8,7 +8,7 @@ fastcore == 1.4.5
 # adapted from fastai's suggestion, https://download.pytorch.org/whl/torch_stable.html
 # python 3.7 compatible with torch>=1.7
 https://download.pytorch.org/whl/cpu/torch-1.8.0%2Bcpu-cp37-cp37m-linux_x86_64.whl
-https://download.pytorch.org/whl/cu102/torchvision-0.7.0-cp37-cp37m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.9.0%2Bcpu-cp37-cp37m-linux_x86_64.whl
 
 voila
 ipywidgets
